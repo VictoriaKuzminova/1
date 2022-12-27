@@ -1,0 +1,23 @@
+body{
+    background: url(fon1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+}
+#gr1{
+    float:left;
+    width: 20%;
+    height: 30%;
+}
+p{
+    float: center;
+    border: 2px solid black;
+   background: orange;
+   font-family:'Times New Roman', Times, serif;
+   font-size: 24px;
+   text-align: center;
+   margin-left: 35%;
+   padding: 3%;
+   width: 30%;
+}

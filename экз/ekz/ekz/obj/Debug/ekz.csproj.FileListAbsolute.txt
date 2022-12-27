@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\экз\ekz\ekz\bin\Debug\ekz.exe.config
+C:\Users\user\Desktop\экз\ekz\ekz\bin\Debug\ekz.exe
+C:\Users\user\Desktop\экз\ekz\ekz\bin\Debug\ekz.pdb
+C:\Users\user\Desktop\экз\ekz\ekz\obj\Debug\ekz.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\экз\ekz\ekz\obj\Debug\ekz.Form1.resources
+C:\Users\user\Desktop\экз\ekz\ekz\obj\Debug\ekz.Properties.Resources.resources
+C:\Users\user\Desktop\экз\ekz\ekz\obj\Debug\ekz.csproj.GenerateResource.cache
+C:\Users\user\Desktop\экз\ekz\ekz\obj\Debug\ekz.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\экз\ekz\ekz\obj\Debug\ekz.exe
+C:\Users\user\Desktop\экз\ekz\ekz\obj\Debug\ekz.pdb

@@ -1,0 +1,22 @@
+body{
+    background: url(fon2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+}
+#gr2{
+    float: right;
+    width: 20%;
+    height: 30%;
+}
+p{
+    border: 2px solid black;
+    background:rgb(127, 229, 180);
+    float: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    text-align: center;
+    padding: 3%;
+    width: 25%;
+    height: 20%;
+
+}
